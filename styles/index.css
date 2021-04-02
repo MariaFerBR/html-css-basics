@@ -1,0 +1,16 @@
+@import './fonts.css';
+
+:root {
+    font-family: "Cabin Condensed Regular";
+}
+
+.nav-bar {
+    display: inline-block;
+    background-color: blanchedalmond;
+    width: 100%;
+    padding: 1rem;
+}
+
+h1 {
+    font-family: "Cabin Condensed Bold";
+}
